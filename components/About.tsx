@@ -28,7 +28,7 @@ export default function About() {
           <div className="about-card glass">
             <div className="about-card-label">Education</div>
             <div className="about-card-value">Computer Science</div>
-            <div className="about-card-sub">B.Tech — Currently Enrolled</div>
+            <div className="about-card-sub">B.Sc — Currently Enrolled</div>
           </div>
           <div className="about-card glass">
             <div className="about-card-label">Focus</div>
